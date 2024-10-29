@@ -18,5 +18,5 @@ So, this dashboard would help the company's leadership members in taking compreh
 - Supply Chain View: Monitored inventory forecasts and net error.
 - Executive View: Provided a consolidated strategic overview.
 
-## Live Demo -
+## Demo -
 [Live](https://app.powerbi.com/view?r=eyJrIjoiZWM4ZGQ1ZWUtMDQwYi00ZmMyLTlmMzMtNDY4OTQ3NmU3ZjAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
