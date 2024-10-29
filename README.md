@@ -10,5 +10,13 @@ So, this dashboard would help the company's leadership members in taking compreh
 - forecast accuracy
 ## Screenshots -
 ![image](https://github.com/user-attachments/assets/69a0da58-e6dc-4dba-86b7-de533f0d53a7)
+
+## Dashboard views created -
+- Finance View: Created a dynamic P&L table with slicers for flexible data filtering.
+- Sales View: Analyzed customer and product performance based on net sales and gross margin percentage.
+- Marketing View: Focused on product-based performance.
+- Supply Chain View: Monitored inventory forecasts and net error.
+- Executive View: Provided a consolidated strategic overview.
+
 ## Live Demo -
-https://app.powerbi.com/view?r=eyJrIjoiZWM4ZGQ1ZWUtMDQwYi00ZmMyLTlmMzMtNDY4OTQ3NmU3ZjAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
+[Live](https://app.powerbi.com/view?r=eyJrIjoiZWM4ZGQ1ZWUtMDQwYi00ZmMyLTlmMzMtNDY4OTQ3NmU3ZjAzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
