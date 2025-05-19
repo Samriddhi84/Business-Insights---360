@@ -4,7 +4,7 @@
 This dashboard is based on the scenerio where a hardware company which deals in computer and related equipments both in online and offline modes faced unexpected loss after opening an offline store in one of the region
 So, this dashboard would help the company's leadership members in taking comprehensive data driven solutions through interactive visualizations and detailed metrics across  5 critical business functions on which the dashboard has been built which are -
 - Net Sales 
-- Gross margin
+- Gross margin     
 - COgs (Transport,miscellaneous) 
 - net profit percentage
 - forecast accuracy
