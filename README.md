@@ -5,7 +5,7 @@ This dashboard is based on the scenerio where a hardware company which deals in 
 So, this dashboard would help the company's leadership members in taking comprehensive data driven solutions through interactive visualizations and detailed metrics across  5 critical business functions on which the dashboard has been built which are -
 - Net Sales 
 - Gross margin     
-- COgs (Transport,miscellaneous) 
+- COgs (Transport,miscellaneous)   
 - net profit percentage
 - forecast accuracy
 ## Screenshots -
