@@ -8,7 +8,7 @@ So, this dashboard would help the company's leadership members in taking compreh
 - COgs (Transport,miscellaneous)   
 - net profit percentage
 - forecast accuracy
-## Screenshots -
+## Screenshots -  
 ![image](https://github.com/user-attachments/assets/69a0da58-e6dc-4dba-86b7-de533f0d53a7)
 
 ## Dashboard views created -
